@@ -1,0 +1,213 @@
+accelerate==0.28.0
+aiohappyeyeballs==2.6.1
+aiohttp==3.11.16
+aiohttp-cors==0.7.0
+aiosignal==1.3.1
+alembic==1.16.4
+amqp==5.3.1
+annotated-types==0.6.0
+anyio==3.7.1
+archspec @ file:///home/conda/feedstock_root/build_artifacts/archspec_1737352602016/work
+attrs==25.1.0
+azure-common==1.1.28
+azure-core==1.29.5
+azure-storage-blob==12.22.0
+billiard==4.2.1
+blinker==1.9.0
+boltons @ file:///home/conda/feedstock_root/build_artifacts/boltons_1733827268945/work
+boto3==1.26.76
+botocore==1.29.76
+Bottleneck==1.5.0
+Brotli @ file:///home/conda/feedstock_root/build_artifacts/brotli-split_1725267514489/work
+cachetools==5.5.2
+celery==5.5.3
+certifi==2025.1.31
+cffi==1.16.0
+charset-normalizer==3.3.2
+click==8.1.7
+click-didyoumean==0.3.1
+click-plugins==1.1.1.2
+click-repl==0.3.0
+cloudpickle==3.1.1
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+colorful==0.5.5
+conda @ file:///home/conda/feedstock_root/build_artifacts/conda_1736947938281/work
+conda-libmamba-solver @ file:///home/conda/feedstock_root/build_artifacts/conda-libmamba-solver_1727359833193/work/src
+conda-package-handling @ file:///home/conda/feedstock_root/build_artifacts/conda-package-handling_1736345463896/work
+conda_package_streaming @ file:///home/conda/feedstock_root/build_artifacts/conda-package-streaming_1729004031731/work
+contourpy==1.3.3
+cryptography==44.0.3
+cupy-cuda12x==13.1.0
+cycler==0.12.1
+Cython==0.29.37
+databricks-sdk==0.63.0
+distlib==0.3.7
+distro @ file:///home/conda/feedstock_root/build_artifacts/distro_1734729835256/work
+dm-tree==0.1.8
+docker==7.1.0
+Farama-Notifications==0.0.4
+fastapi==0.115.12
+fastrlock==0.8.2
+filelock==3.17.0
+Flask==3.1.1
+flatbuffers==23.5.26
+fonttools==4.59.1
+frozendict @ file:///home/conda/feedstock_root/build_artifacts/frozendict_1728841364063/work
+frozenlist==1.4.1
+fsspec==2023.5.0
+gitdb==4.0.12
+GitPython==3.1.45
+google-api-core==2.24.2
+google-api-python-client==2.111.0
+google-auth==2.23.4
+google-auth-httplib2==0.1.1
+google-auth-oauthlib==1.0.0
+google-cloud-bigquery==3.13.0
+google-cloud-bigquery-storage==2.24.0
+google-cloud-core==2.4.1
+google-cloud-storage==2.14.0
+google-crc32c==1.5.0
+google-oauth==1.0.1
+google-resumable-media==2.6.0
+googleapis-common-protos==1.61.0
+graphene==3.4.3
+graphql-core==3.2.6
+graphql-relay==3.2.0
+greenlet==3.2.4
+grpcio==1.66.2
+grpcio-status==1.62.3
+gunicorn==23.0.0
+gymnasium==1.1.1
+h11==0.16.0
+h2 @ file:///home/conda/feedstock_root/build_artifacts/h2_1733298745555/work
+hf-xet==1.1.8
+hpack @ file:///home/conda/feedstock_root/build_artifacts/hpack_1733299205993/work
+httplib2==0.20.4
+httptools==0.6.4
+huggingface-hub==0.34.4
+hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1733298771451/work
+idna==3.7
+importlib-metadata==6.11.0
+isodate==0.6.1
+itsdangerous==2.2.0
+Jinja2==3.1.6
+jmespath==1.0.1
+joblib==1.5.1
+jsonpatch @ file:///home/conda/feedstock_root/build_artifacts/jsonpatch_1733814567314/work
+jsonpointer @ file:///home/conda/feedstock_root/build_artifacts/jsonpointer_1725302968769/work
+jsonschema==4.23.0
+jsonschema-specifications==2024.10.1
+kiwisolver==1.4.9
+kombu==5.5.4
+libmambapy @ file:///home/conda/feedstock_root/build_artifacts/mamba-split_1735835753033/work/libmambapy
+lightgbm==4.6.0
+lightning-utilities==0.15.2
+lz4==4.3.3
+Mako==1.3.10
+mamba @ file:///home/conda/feedstock_root/build_artifacts/mamba-split_1735835753033/work/mamba
+Markdown==3.8.2
+markdown-it-py==2.2.0
+MarkupSafe==2.1.3
+matplotlib==3.10.5
+mdurl==0.1.2
+memray==1.10.0
+menuinst @ file:///home/conda/feedstock_root/build_artifacts/menuinst_1731147001619/work
+mlflow==2.22.0
+mlflow-skinny==2.22.0
+mpmath==1.3.0
+msgpack==1.0.7
+multidict==6.0.5
+networkx==3.5
+numpy==1.26.4
+oauthlib==3.3.1
+opencensus==0.11.4
+opencensus-context==0.1.3
+opentelemetry-api==1.34.1
+opentelemetry-exporter-prometheus==0.55b1
+opentelemetry-proto==1.27.0
+opentelemetry-sdk==1.34.1
+opentelemetry-semantic-conventions==0.55b1
+ormsgpack==1.7.0
+packaging==23.0
+pandas==2.2.2
+pillow==11.3.0
+platformdirs==3.11.0
+pluggy @ file:///home/conda/feedstock_root/build_artifacts/pluggy_1733222765875/work
+prometheus-client==0.19.0
+prompt-toolkit==3.0.41
+propcache==0.3.0
+proto-plus==1.22.3
+protobuf==4.25.8
+psutil==5.9.6
+py-spy==0.4.1
+pyarrow==19.0.1
+pyasn1==0.5.1
+pyasn1-modules==0.3.0
+pycosat @ file:///home/conda/feedstock_root/build_artifacts/pycosat_1732588426641/work
+pycparser==2.21
+pydantic==2.10.0
+pydantic_core==2.27.0
+Pygments==2.18.0
+pyOpenSSL==25.0.0
+pyparsing==3.1.1
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1733217236728/work
+python-dateutil==2.8.2
+python-dotenv==1.1.1
+pytz==2022.7.1
+PyYAML==6.0.1
+ray @ file:///home/ray/ray-3.0.0.dev0-cp312-cp312-manylinux2014_aarch64.whl#sha256=c01587202c66997bc5eaaccf5fe9c17d4f8cfed369e3a65668ba2660f00127fc
+referencing==0.36.2
+regex==2025.7.34
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1733217035951/work
+requests-oauthlib==2.0.0
+rich==13.3.2
+rpds-py==0.22.3
+rsa==4.7.2
+ruamel.yaml @ file:///home/conda/feedstock_root/build_artifacts/ruamel.yaml_1736248043298/work
+ruamel.yaml.clib @ file:///home/conda/feedstock_root/build_artifacts/ruamel.yaml.clib_1728724472161/work
+s3transfer==0.6.2
+safetensors==0.6.2
+scikit-learn==1.3.2
+scipy==1.11.4
+sentencepiece==0.2.1
+setuptools==80.9.0
+six==1.16.0
+smart-open==6.2.0
+smmap==5.0.2
+sniffio==1.3.1
+SQLAlchemy==2.0.43
+sqlparse==0.5.3
+starlette==0.46.2
+sympy==1.14.0
+tensorboardX==2.6.2.2
+threadpoolctl==3.6.0
+tokenizers==0.15.2
+torch==2.3.0
+torch_cluster==1.6.3
+torch_geometric==2.5.3
+torch_scatter==2.1.2
+torch_sparse==0.6.18
+torch_spline_conv==1.2.2
+torchmetrics==1.3.0
+torchtext==0.6.0
+torchvision==0.18.0
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1735661334605/work
+transformers==4.36.2
+truststore @ file:///home/conda/feedstock_root/build_artifacts/truststore_1729762363021/work
+typing_extensions==4.12.2
+tzdata==2025.2
+uritemplate==4.1.1
+urllib3==1.26.19
+uvicorn==0.22.0
+uvloop==0.21.0
+vine==5.1.0
+virtualenv==20.29.1
+watchfiles==0.19.0
+wcwidth==0.2.13
+websockets==11.0.3
+Werkzeug==3.1.3
+wheel==0.45.1
+xgboost==2.1.0
+yarl==1.18.3
+zipp==3.19.2
+zstandard==0.23.0
